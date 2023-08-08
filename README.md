@@ -12,4 +12,5 @@ If you have an Export.lua in that directory, add this line to the end of it:
 
 If you don't have that file, you can copy the one from this repo.
 
-After launching DCS, make sure to go into your settings and select the new MFCD view, and restart.  Then remember to map the buttons!
+After launching DCS, make sure to go into your settings and select the new MFCD view, and restart.
+Once DCS is running, edit the deck to fix the MFCD mirror locations - click on the MFCD in the edit, Advanced > Show capture selection window - Set height and width to 300 (or whatever you changed it to), then drag the capture window over the MFCD in DCS
