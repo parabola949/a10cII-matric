@@ -1,6 +1,7 @@
  _  = function(p) return p; end;
    name = _('MFCD');
    Description = 'MFCD Corner'
+   MFCDSize = 300
    Viewports =
    {
         Center =
@@ -18,17 +19,17 @@
    LEFT_MFCD =
    {
     x = 0;
-    y = screen.height - 600;
-    width = 600;
-    height = 600;
+    y = screen.height - MFCDSize;
+    width = MFCDSize;
+    height = MFCDSize;
    }
    --
    RIGHT_MFCD =
    {
-    x = screen.width - 600;
-    y = screen.height - 600;
-    width = 600;
-    height = 600;
+    x = screen.width - MFCDSize;
+    y = screen.height - MFCDSize;
+    width = MFCDSize;
+    height = MFCDSize;
    }
    --
    UIMainView = Viewports.Center
