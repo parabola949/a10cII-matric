@@ -1,7 +1,7 @@
 # a10cII-matric
 
 ## Installation
-You will need the MATRIC server and client (preferrably a large table, phones will have a difficult time using this).
+You will need the MATRIC server and client (preferrably a large tablet, phones will have a difficult time using this).
 Download the deck from here: https://community.matricapp.com/deck/621/dcs-a10c-ii
 
 Place the MFCD.lua file in your DCS installation directory/Config/MonitorSetup/.  Depending on your screen size, you may want to adjust the values (replace 300 with however many pixels you want.  Bigger = clearer on the MFCD deck, but more resource usage)
